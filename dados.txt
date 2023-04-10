@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Michael
+-Profissão: QA
+-Cidade: Jacobina
+-O que faz nas horas vaga: Assisto a algumas séries de comédia e suspense.
+-Feedback sobre o curso Qualidade de Software: Estou achando incrível, mas neste módulo tive uma leve dificuldade relacionada ao Git, mas estou me esforçando para colocar em prática. 
+-Feedback sobre a plataforma de estudo da EBAC: O suporte da plataforma é muito bom.
 
 Obrigado!!!
 
