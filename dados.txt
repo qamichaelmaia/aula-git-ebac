@@ -1,7 +1,7 @@
 Dados do aluno
 
 -Primeiro Nome: Michael
--Profissão: QA
+-Profissão: Quality Assurance
 -Cidade: Jacobina
 -O que faz nas horas vaga: Assisto a algumas séries de comédia e suspense.
 -Feedback sobre o curso Qualidade de Software: Estou achando incrível, mas neste módulo tive uma leve dificuldade relacionada ao Git, mas estou me esforçando para colocar em prática. 
